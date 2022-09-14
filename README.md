@@ -1,7 +1,7 @@
 # U-Net cell segmentation with convolutional neural networks
 
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2011.09763-B31B1B.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/UNet-Cell-Segmentation/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/UNet-Cell-Segmentation/blob/main/LICENSE)
 
 This repository contains my *Master thesis* entitled "Analysis of the performance of U-Net neural networks for the segmentation of living cells" done in 2019 at the Technische Universität Darmstadt (TUD).
 
