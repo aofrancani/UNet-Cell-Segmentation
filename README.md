@@ -20,7 +20,7 @@ The tracking of the cells during an experiment is performed by image processing 
 ## Pipeline
 The brightfield and fluorescence channels of a microfluidic device are collected by an automated microscope. Then every single cell is segmented by the U-Net convolutional network. With the segmentation, the fluorescence of each individual cell is measured and tracked over time. 
 
-<img src="images/pipeline-processing.png" alt="drawing" width="900"/>
+<img src="images/pipeline_processing.png" alt="drawing" width="800"/>
 
 
 ## Code
